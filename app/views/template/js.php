@@ -1,3 +1,11 @@
+<footer class="main-footer">
+    <div class="footer-left">
+        Sistem Informasi UPJ 201902- Semester 3
+    </div>
+    <div class="footer-right">
+        2.3.0
+    </div>
+</footer>
 </div>
 </div>
 <!-- General JS Scripts -->
